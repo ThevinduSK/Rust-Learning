@@ -1,0 +1,14 @@
+[package]
+name = "variables"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "dtypes"
+path = "src/dtypes.rs"
+
+[[bin]]
+name = "functions"
+path = "src/functions.rs"
+
+[dependencies]
