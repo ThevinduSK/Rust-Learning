@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "Intro/hello_cargo",
+    "Intro/guessing_game",
+    "Intro/get-dependencies",
+    "Concepts/variables",
+    "Concepts/functions",
+    "Concepts/branches", "concepts/loops",
+]
