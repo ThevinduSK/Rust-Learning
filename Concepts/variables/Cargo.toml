@@ -7,8 +7,4 @@ edition = "2024"
 name = "dtypes"
 path = "src/dtypes.rs"
 
-[[bin]]
-name = "functions"
-path = "src/functions.rs"
-
 [dependencies]
